@@ -30,4 +30,4 @@ Este é um projeto simples de "Amigo Secreto", desenvolvido para facilitar o sor
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/amigo-secreto.git
+   git clone https://github.com/LeicianeMenezes/-Challenge-amigo-secreto.git
